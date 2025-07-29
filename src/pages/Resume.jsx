@@ -4,7 +4,7 @@ function Resume() {
         <h1>Resume</h1>
         <p>You can view or download my full resume using the link below:</p>
         <a
-          href="https://docs.google.com/document/d/your-resume-link"
+          href="https://docs.google.com/document/d/1DJE0K8YW557yiEXnC6714HlwsYG4mzd9/edit?usp=sharing&ouid=103287810301603708658&rtpof=true&sd=true"
           target="_blank"
           rel="noopener noreferrer"
           style={{
