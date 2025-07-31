@@ -45,7 +45,7 @@ function Resume() {
               <strong>{label}</strong>
               <div style={{ marginTop: '0.5rem' }}>
                 <iframe
-                  src={`/${file}`}
+                  src={`/JonathanMa.github.io/${file}`}
                   title={label}
                   style={{
                     width: '100%',
@@ -57,7 +57,7 @@ function Resume() {
                 />
               </div>
               <a
-                href={`/${file}`}
+                href={`/JonathanMa.github.io/${file}`}
                 download
                 style={{
                   display: 'inline-block',
