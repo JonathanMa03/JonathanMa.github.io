@@ -1,10 +1,10 @@
 function Resume() {
   const certifications = [
-    { label: 'Bloomberg Market Concepts', file: 'cert-bloomberg.pdf' },
+    { label: 'Bloomberg Market Concepts', file: 'cert-bloomberg-1.pdf' },
     { label: 'Google Data Analytics', file: 'cert-google-data.pdf' },
+    { label: 'DataCamp Intermediate R', file: 'cert-datacamp-intermediate.pdf' },
     { label: 'DataCamp dplyr', file: 'cert-datacamp-dplyr.pdf' },
     { label: 'DataCamp ggplot2', file: 'cert-datacamp-ggplot2.pdf' },
-    { label: 'DataCamp Intermediate R', file: 'cert-datacamp-intermediate.pdf' },
     { label: 'CFI FMVA', file: 'cert-fmva.pdf' },
     { label: 'Columbia Machine Learning', file: 'cert-columbia-ml.pdf' },
   ];
