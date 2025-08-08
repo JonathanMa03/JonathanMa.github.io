@@ -8,6 +8,13 @@ function Projects() {
       link: "https://github.com/JonathanMa03/Applied-Statistics-Final-Project?tab=readme-ov-file",
     },
     {
+      name: "Predicting Depression: A Comparative ML Approach",
+      description:
+        "Evaluates logistic regression and random forest classifiers to detect depression using demographic and psychosocial survey data. Highlights the strengths of ensemble-based machine learning in mental health diagnostics.",
+      tech: "R (CARET, dplyr, randomForest)",
+      link: "https://github.com/JonathanMa03/Depression-Prediction",
+    },
+    {
       name: "Obesity of the Youth: Health Disparity and Income Inequality",
       description:
         "Analyzes adolescent obesity in the U.S. through the lens of income inequality, healthcare access, and racial/ethnic disparities. Uses logistic regression and inequality indices on data from the National Survey of Children’s Health (2019 & 2023).",
@@ -22,12 +29,13 @@ function Projects() {
       link: "https://github.com/JonathanMa03/Stock-Forecaster",
     },
     {
-      name: "Predicting Depression: A Comparative ML Approach",
+      name: "Market Behavior Analysis",
       description:
-        "Evaluates logistic regression and random forest classifiers to detect depression using demographic and psychosocial survey data. Highlights the strengths of ensemble-based machine learning in mental health diagnostics.",
-      tech: "R (CARET, dplyr, randomForest)",
-      link: "https://github.com/JonathanMa03/Depression-Prediction",
+        "An interactive dashboard that uses the yfinance API to view return behavior through market shocks lik the '08 Crisis or COVID-Pandemic, a good quick history visualization",
+      tech: "Python (matplotlib, seaborn, sklearn)",
+      link: "https://github.com/JonathanMa03/Market-Shock-Behavior",
     },
+    
   ];
 
   return (
